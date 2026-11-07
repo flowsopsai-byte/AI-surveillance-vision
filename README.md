@@ -43,12 +43,6 @@ python main.py
 
 Requires an AWS Rekognition face collection named `employes-autorises`, indexed with the photos of authorized staff (with their written consent: biometric data is regulated under GDPR).
 
-## Screenshots
-
-| Terminal log | n8n workflow |
-|---|---|
-| ![log](screenshots/terminal.png) | ![n8n](screenshots/n8n.png) |
-
 ## Deployment target
 
 Raspberry Pi 4 + solar panel + battery + Starlink for off-grid sites.
