@@ -1,0 +1,6 @@
+anthropic
+opencv-python
+requests
+boto3
+python-dotenv
+onvif-zeep

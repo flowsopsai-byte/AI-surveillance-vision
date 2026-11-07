@@ -1,0 +1,8 @@
+.env
+*.jpg
+*.jpeg
+*.mp3
+log_detections.txt
+employees/
+Photos employes/
+__pycache__/
